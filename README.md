@@ -1,5 +1,5 @@
 `Pytorch` `Tree-LSTM` `Syntactic structure`
-# **Tree-LSTM by Pytorch**[paper](https://www.mdpi.com/2078-2489/10/4/127)
+# **Tree-LSTM by Pytorch**[](https://www.mdpi.com/2078-2489/10/4/127)
 ## **How to run Tree-LSTM**
 
 
